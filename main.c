@@ -19,4 +19,5 @@ void sub2(){
 void sub3(){
 }
 void sub4(){
+	printf("안녕하세요 16학번 이지훈입니다.");
 }
