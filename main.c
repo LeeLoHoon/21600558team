@@ -15,6 +15,9 @@ int main(){
 void sub1(){
 }
 void sub2(){
+
+	printf("merge pull 한번 해보세영 ~\n");
+
 }
 void sub3(){
 }
